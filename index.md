@@ -1,21 +1,33 @@
+# Data Science Portfolio
 ---
-layout: default
+## Machine learning
+
+### Fraud Detection
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/fraud_detection)
+
+<center><img src="images/fraud_detection.jpg"/></center>
+
 ---
+### Financial-Models-Numerical-Methods
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/Financial-Models-Numerical-Methods)
 
-[Link to another page](./another-page.html).
+This is just a collection of topics and algorithms that in my opinion are interesting.
 
-There should be whitespace between paragraphs.
+It contains several topics that are not so popular nowadays, but that can be very powerful. Usually, topics such as PDE methods, LÃ©vy processes, Fourier methods or Kalman filter are not very popular among practitioners, who prefers to work with more standard tools.
+The aim of these notebooks is to present these interesting topics, by showing their practical application through an interactive python implementation.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+<center><img src="images/financial_modeling.jpg"/></center>
 
-# Project 1
+---
+### LSTM Neural Network for Time Series Prediction
 
-Fraud Detection Dummy Project
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/sajankedia/LSTM-Neural-Network-for-Time-Series-Prediction)
 
-## Project 2
+The following article sections will briefly touch on LSTM neuron cells, give a toy example of predicting a sine wave then walk through the application to a stochastic time series. The article assumes a basic working knowledge of simple deep neural networks.
 
-Dummy Open Source Numpy Project
 
 
